@@ -126,7 +126,7 @@ yi.zhang.cn@utexas.edu.
 [UT_Austin]: https://www.utexas.edu/
 [UT_ECE]: http://www.ece.utexas.edu/
 [cvx]: http://cvxr.com/cvx/
-[GAMP]: https://gampmatlab.svn.sourceforge.net/svnroot/gampmatlab
+[GAMP]: https://sourceforge.net/projects/gampmatlab/
 [OMP]: https://www.mathworks.com/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery
 [SparsePR]: https://bitbucket.org/charms/sparsepr/
 [tfocs]: http://cvxr.com/tfocs/
