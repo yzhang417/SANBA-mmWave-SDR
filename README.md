@@ -18,14 +18,15 @@ This software was developed at the [Department of Electrical and Computer
 Engineering][UT_ECE], [The University of Texas at Austin][UT_Austin] 
 and is released under the MIT license. 
 
-The software was developed and tested using Matlab R2017b and uses 
-[SparsePR][SparsePR], a Matlab software package for the efficient 
-construction and solution of convex optimization problems. A copy of the 
-sparsepr package is included under the third party software directory 
-at [Numerical_Simulation/3rd_software_component/]. A selection of scripts 
-also uses the CVX optimization software [(link)][cvx], the Generalized 
-Approximate Message Passing (GAMP) in MRI MATLAB package [(link)][GAMP] and
-the CoSaMP/OMP toolbox [(link)][OMP].
+The software was developed and tested using Matlab R2017b, and uses 
+[SparsePR][SparsePR], a Matlab software package for solving the sparse 
+phase retrieval problem, and [TFOCS][tfocs], a Matlab software package 
+for the efficient construction and solution of convex optimization problems. 
+A copy of the sparsepr package is included under the third party software 
+directory at "Numerical_Simulation/3rd_software_component/". A selection 
+of scripts also uses the [CVX][cvx] optimization software, the Generalized 
+Approximate Message Passing ([GAMP][GAMP]) in MRI MATLAB package and the
+[CoSaMP/OMP toolbox][OMP].
 
 
 ## Directory Structure and Contents
