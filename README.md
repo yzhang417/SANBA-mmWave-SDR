@@ -119,6 +119,12 @@ The software package is organized under the following directory structure:
    Numerical_Simulation/main_programs.
 
 
+## Acknowledgement
+
+This work was partially supported by the U.S. Army Research Labs under grant W911NF-19-1-0221, NSF under grants CNS-1343383,
+CNS-1731658, CNS-1702800, the Wireless Networking and Communications Group Industrial Affiliates Program, and the US DoT
+supported D-STOP Tier 1 University Transportation Center.
+
 ## Contact
 
 Bug reports, comments and suggestions are welcome
