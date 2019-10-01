@@ -102,13 +102,13 @@ The software package is organized under the following directory structure:
        This folder contains auxiliary functions necessary to implement the
        proposed non-coherent algorithm and related benchmarking algorithms.
 
-
 - `Paper_Materials/`
      - `camera_ready/`
      - `rebuttal/`
      - `submitted_draft/`
      - `supplementary_figures/`
      - `conference_presentation/`
+     - `poster/`
 
 ## Instructions
 
@@ -118,6 +118,12 @@ The software package is organized under the following directory structure:
 3. Execute the scripts in `Experimental_Validation/main_programs/` or
    `Numerical_Simulation/main_programs`.
 
+
+## Acknowledgement
+
+This work was partially supported by the U.S. Army Research Labs under grant W911NF-19-1-0221, NSF under grants CNS-1343383,
+CNS-1731658, CNS-1702800, the Wireless Networking and Communications Group Industrial Affiliates Program, and the US DoT
+supported D-STOP Tier 1 University Transportation Center.
 
 ## Contact
 
