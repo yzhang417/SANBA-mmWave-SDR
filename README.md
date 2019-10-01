@@ -109,6 +109,7 @@ The software package is organized under the following directory structure:
      - submitted_draft/
      - supplementary_figures/
      - conference_presentation/
+     - `poster/`
 
 ## Instructions
 
